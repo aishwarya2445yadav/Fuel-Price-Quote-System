@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fuel-system copy",
+    "\\fuel-system copy\\fuel-app",
+    "\\fuel-system copy\\fuel-app-backend",
+    "\\fuel-system copy\\fuel-app-backend\\db",
+    "\\fuel-system copy\\fuel-app-backend\\db\\db-models",
+    "\\fuel-system copy\\fuel-app-backend\\routes",
+    "\\fuel-system copy\\fuel-app-backend\\routes\\admin",
+    "\\fuel-system copy\\fuel-app-backend\\routes\\__test__",
+    "\\fuel-system copy\\fuel-app\\src",
+    "\\fuel-system copy\\fuel-app\\src\\components"
+  ],
+  "SelectedNode": "\\fuel-system copy\\fuel-app-backend\\calculate_price.js",
+  "PreviewInSolutionExplorer": false
+}
